@@ -7,6 +7,7 @@ import datetime
 #serie = pd.Series(lista)
 #print(serie)
 
+
 # serie din array numpy
 #array_date = np.array([10, 20, 30, 40, 50])
 #serie = pd.Series(array_date)
