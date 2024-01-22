@@ -203,7 +203,7 @@ print(f'acc: {accuracy_score(test_outputs, computedTestOutputs)}')
 
 
 
-
+# Rezultate
 # ['The rooms are extremely small, practically only a bed.', 'Room safe did not work.']
 # primele două exemple de recenzii.
 
